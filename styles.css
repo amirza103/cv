@@ -1,0 +1,33 @@
+
+  body {
+    background-color: #F8F8F8;
+    font-family: arial;
+
+  }
+
+  hr{
+    background-color: inherit;
+    border-style:none;
+    border-top-style: dotted;
+    border-color: #F037A5;
+    border-width:10px;
+    width: 5%;
+  }
+  h1{
+    color: #1E3163;
+  }
+
+  p {
+    color: #2D46B9;
+  }
+
+h3 {
+  color: #1E3163;
+}
+
+ul{
+  color: #2D46B9;
+}
+table{
+  color: #2D46B9;
+}
